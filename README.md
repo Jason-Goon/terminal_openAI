@@ -41,4 +41,3 @@ This project is licensed under the Zero-Clause BSD License - see the [LICENSE](L
 - Thanks to the OpenAI team for providing the API and documentation that made this project possible.
 - Thanks to the Rust community for excellent resources and support.
 
-```
